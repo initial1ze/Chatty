@@ -2,7 +2,6 @@
   "name": "chat-app",
   "version": "1.0.0",
   "description": "",
-  "main": "mk.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js ",
